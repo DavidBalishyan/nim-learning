@@ -5,7 +5,7 @@ Solutions to <https://adriann.github.io/programming_problems.html> implemented i
 ## Structure
 
 - `elementary/` - Beginner problems (n1-n10)
-- `include/` - Shared modules (e.g., `bigint.nim`)
+- `include/` - Shared modules (e.g., [`bigint.nim`](https://github.com/DavidBalishyan/nim-bigint))
 
 ## Running
 to run the first solution, use
