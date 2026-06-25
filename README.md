@@ -20,7 +20,7 @@ nim c elementary/n1_hello_world.nim
 ```
 
 ### Math notation of the 11th problem
-[Wikipedia Link to the Leibniz formula for $\pi$](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)
+Wikipedia [Link](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80) to the Leibniz formula for $\pi$
 
 ```math
 \sum_{k=1}^{10^6} \frac{(-1)^{k+1}}{2k-1} = 4\cdot(1-1/3+1/5-1/7+1/9-1/11\ldots).
